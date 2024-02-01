@@ -1,0 +1,4 @@
+(executable
+ (public_name RISV_V_Task)
+ (name main)
+ (libraries ounit2))
